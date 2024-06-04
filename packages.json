@@ -2,5 +2,9 @@
     {
         "package": "movetrack",
         "url": "https://github.com/g-rppl/movetrack"
+    },
+    {
+        "package": "cmdstanr",
+        "url": "https://github.com/stan-dev/cmdstanr"
     }
 ]
